@@ -71,7 +71,7 @@ DeepHoF is designed to prediction the potential host types (plant, germ, inverte
   
 ### Command
 
-  python DeepHoF.py <input_file_folder>/input_file.fna <output_file_folder>/output_file.tsv
+    python DeepHoF.py <input_file_folder>/input_file.fna <output_file_folder>/output_file.tsv
   
 ### Output
 
